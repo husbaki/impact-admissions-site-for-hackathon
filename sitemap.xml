@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
+	xsi:schemalocation="http://www.sitemaps.org/schemas/sitemap/0.9
+	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://rpcs3.net/</loc>
+</url>
+<url>
+  <loc>https://rpcs3.net/blog</loc>
+</url>
+<url>
+  <loc>https://rpcs3.net/about</loc>
+</url>
+</urlset>
